@@ -1,0 +1,1423 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-12 00:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2)\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"Language: ru-RU\n"
+"Project-Id-Version: Plugins - Simple Bitcoin (Altcoin) Faucets - Development "
+"(trunk)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-12 00:53+0000\n"
+"Last-Translator: trof <alexey-trofimov@mail.ru>\n"
+"Language-Team: Russian\n"
+"X-Loco-Version: 2.3.1; wp-5.1.4"
+
+#: bonds/bonds.php:638
+msgid ""
+"<a href=\"/wp-login.php?action=register\">Register</a> or <a href=\"/wp-"
+"login.php\">Login</a> to access this page !"
+msgstr ""
+"Для доступа к этой странице пожалуйста <a href=\"/wp-login.php?"
+"action=register\">Зарегистрируйтесь</a> или <a href=\"/wp-login.php\">"
+"Войдите</a> ."
+
+#: sbf_admin_referral.php:10
+msgid ""
+"This functionality mimics <a href=\"https://cryptoo.me/referral-program/\">"
+"Cryptoo.me referral program</a>"
+msgstr ""
+"Функциональность аналогична <a href=\"https://cryptoo.me/реферальная-"
+"программа/\">Реферальной Программе Cryptoo.me</a>"
+
+#: sbf_admin_referral.php:12
+msgid ""
+"Anybody can create referral link with the constructor and own Bitcoin "
+"address, than place the link somewhere in the Net."
+msgstr ""
+"Любой может создать реферальную ссылку с помощью конструктора ссылок и "
+"своего Биткоин-адреса, и разместить ссылку в Сети."
+
+#: sbf_admin_referral.php:14
+msgid ""
+"When someone following the link registers, or visits several pages, satoshi "
+"bonus will be deposited to the Bitcoin address of the link owner."
+msgstr ""
+"Когда посетитель, пришедший по этой ссылке,  регистрируется, или посещает "
+"несколько страниц, на Биткоин-адрес переводится вознаграждение."
+
+#: sbf_admin_referral.php:15 sbf_admin_paidcontent.php:34
+#: sbf_admin_blockrain.php:7 sbf_admin_lines.php:6 sbf_admin_2048.php:8
+#: sbf_admin_minesweeper.php:9 sbf_admin_bonds.php:21
+#: sbf_admin_bubbleshooter.php:8 sbf_admin_rewarder.php:15
+#: sbf_admin_faucets.php:5 sbf_admin_videopoker.php:9
+msgid "Scroll to Hints"
+msgstr "Подсказки внизу"
+
+#: sbf_admin_referral.php:22 sbf_admin_paidcontent.php:50
+#: sbf_admin_bonds.php:41 sbf_admin_videopoker.php:22
+msgid "Please save"
+msgstr "Пожалуйста сохраните"
+
+#: sbf_admin_referral.php:25
+msgid "Cryptoo.me <b>API Key</b> (registration)"
+msgstr "Cryptoo.me <b>API Key</b> (регистрации)"
+
+#: sbf_admin_referral.php:30 sbf_admin_paidcontent.php:46
+#: sbf_admin_bonds.php:29 sbf_admin_videopoker.php:30
+msgid "Get the API Key for free at"
+msgstr "Получите бесплатный ключ на"
+
+#: sbf_admin_referral.php:31 sbf_admin_paidcontent.php:47
+#: sbf_admin_bonds.php:30 sbf_admin_videopoker.php:31
+msgid "https://cryptoo.me/applications/"
+msgstr "https://cryptoo.me/приложения/"
+
+#: sbf_admin_referral.php:36
+msgid "Pay for active registration"
+msgstr "Платить за активную регистрацию"
+
+#: sbf_admin_referral.php:40 sbf_admin_referral.php:60 sbf_admin_bonds.php:48
+#: sbf_admin_bonds.php:50 sbf_admin_bonds.php:88 sbf_admin_bonds.php:92
+#: sbf_admin_videopoker.php:39 sbf_admin_videopoker.php:51 bonds/bonds.php:115
+#: bonds/bonds_helper.php:597 videopoker/poker_lang_WP.php:31
+msgid "satoshi"
+msgstr "сатоши"
+
+#: sbf_admin_referral.php:42
+msgid "Only active (confirmed) registrations are paid for"
+msgstr "Только активные (подтверждённые) регистрации оплачиваются"
+
+#: sbf_admin_referral.php:47
+msgid "Cryptoo.me <b>API Key</b> (visits)"
+msgstr "Cryptoo.me <b>API Key</b> (просмотры)"
+
+#: sbf_admin_referral.php:52
+msgid "See Hints"
+msgstr "Смотри подсказки"
+
+#: sbf_admin_referral.php:56
+msgid "Pay"
+msgstr "Платить"
+
+#: sbf_admin_referral.php:61
+msgid "if at least"
+msgstr "если хотя-бы"
+
+#: sbf_admin_referral.php:65
+msgid "pages were visited"
+msgstr "страниц было просмотрено"
+
+#: sbf_admin_referral.php:67
+msgid "Minimal total visiting time"
+msgstr "Минимальное общее время визита"
+
+#: sbf_admin_referral.php:71
+msgid "seconds"
+msgstr "секунд"
+
+#: sbf_admin_referral.php:73
+msgid "Paid only once per visit"
+msgstr "Оплачивается один раз за визит"
+
+#: sbf_admin_referral.php:76
+msgid "Do not pay to Referral Bitcoin Addresses"
+msgstr "Не платить Биткойн-адресам"
+
+#: sbf_admin_referral.php:80
+msgid "Add suspicious addresses"
+msgstr "Добавьте подозрительные адреса"
+
+#: sbf_admin_referral.php:83
+msgid "Do not pay for visiting IP Addresses"
+msgstr "Не платить за IP-адреса"
+
+#: sbf_admin_referral.php:87
+msgid ""
+"For example from <a target=_blank href=\"https://myip."
+"ms/browse/blacklist/Blacklist_IP_Blacklist_IP_Addresses_Live_Database_Real-"
+"time\">here</a>"
+msgstr ""
+"Например <a target=_blank href=\"https://myip."
+"ms/browse/blacklist/Blacklist_IP_Blacklist_IP_Addresses_Live_Database_Real-"
+"time\">отсюда</a>"
+
+#: sbf_admin_referral.php:101
+msgid "In the Referral Program Page use shortcodes"
+msgstr "На странице Реферальной Программы используйте шорткоды"
+
+#: sbf_admin_referral.php:103
+msgid "shows referral link constructor"
+msgstr "показывает конструктор реферальных ссылок"
+
+#: sbf_admin_referral.php:105
+msgid "shows registration bonus satoshi value"
+msgstr "показывает размер сатоши-бонуса за регистрацию"
+
+#: sbf_admin_referral.php:107
+msgid "shows pageviews bonus satoshi value"
+msgstr "показывает размер сатоши-бонуса за посещение страниц"
+
+#: sbf_admin_referral.php:109
+msgid "shows number of pages to visit"
+msgstr "показывает количество страниц для посещения"
+
+#: sbf_admin_referral.php:111 sbf_admin_paidcontent.php:22
+#: sbf_admin_paidcontent.php:26 sbf_admin_paidcontent.php:30
+msgid "EN"
+msgstr "RU"
+
+#: sbf_admin_referral.php:111
+msgid "Referral%20Program"
+msgstr "Реферальная%20Программа"
+
+#: sbf_admin_referral.php:112
+msgid "Generate Referral Program Page"
+msgstr "Сгенерируйте Страницу Реферальной Программы"
+
+#: sbf_admin_referral.php:113
+msgid "edit, save, add to menu - you all set! "
+msgstr "отредактируйте, сохраните, добавьте в меню - и готово!"
+
+#: sbf_admin_referral.php:116
+msgid "For example, this code"
+msgstr "Например, этот код"
+
+#: sbf_admin_referral.php:127
+msgid "Will render"
+msgstr "Покажет"
+
+#: sbf_admin_referral.php:136
+msgid "Log"
+msgstr "Журнал"
+
+#: sbf_admin_referral.php:142
+msgid "log is empty yet"
+msgstr "Журнал пока пуст"
+
+#: sbf_admin_referral.php:155 sbf_admin_paidcontent.php:109
+#: sbf_admin_blockrain.php:52 sbf_admin_lines.php:59 sbf_admin_2048.php:60
+#: sbf_admin_minesweeper.php:60 sbf_admin_bonds.php:113
+#: sbf_admin_bubbleshooter.php:49 sbf_admin_rewarder.php:87
+#: sbf_admin_faucets.php:23 sbf_admin_videopoker.php:100
+msgid "Hints"
+msgstr "Подсказки"
+
+#: sbf_admin_referral.php:157 sbf_admin_paidcontent.php:111
+#: sbf_admin_bonds.php:125
+msgid ""
+"Same API Key can be used for registrations and page visits. However, using "
+"seperate Keys will simplify the track of performance, and increase the "
+"exposure of your website in the <a href=\"https://cryptoo.me/rotator/\">App "
+"List</a> "
+msgstr ""
+"Один и тот же Ключ Приложения (API Key) может быть использован выплаты "
+"вознаграждений за для регистрации и посещения страниц.  Однако использование "
+"разных ключей упрощает анализ эффективности и увеличивает видимость сайта в "
+"<a href=\"https://cryptoo.me/список-приложений/\">Списке Приложений</a> "
+
+#: sbf_admin_referral.php:158 sbf_admin_paidcontent.php:112
+#: sbf_admin_bonds.php:126
+msgid ""
+"History of the payments is available in the <a href=\"https://cryptoo."
+"me/applications/\">Application Manager</a> under \"Payouts\" link of your "
+"Application"
+msgstr ""
+"История выплат доступна в <a href=\"https://cryptoo.me/приложения/\">"
+"Менеджере Приложений</a> по ссылке \"Выплаты\""
+
+#: sbf_admin_referral.php:160
+msgid ""
+"Make sure you have some kind of captcha plugin to prevent bot registrations"
+msgstr ""
+"Убедитесь что регистрация защищена капчей для предотвращения использования "
+"ботов"
+
+#: sbf_admin_paidcontent.php:14
+msgid "Use Shortcodes"
+msgstr "Используйте Шорткоды"
+
+#: sbf_admin_paidcontent.php:15 sbf_admin_paidcontent.php:60
+msgid "visible before payment, hidden after"
+msgstr "видимо до оплаты, скрыто после"
+
+#: sbf_admin_paidcontent.php:17 sbf_admin_paidcontent.php:72
+msgid "hidden before payment, visible after"
+msgstr "скрыто до оплаты, видимо после"
+
+#: sbf_admin_paidcontent.php:18 sbf_admin_blockrain.php:64
+#: sbf_admin_lines.php:68 sbf_admin_more.php:7 sbf_admin_2048.php:77
+#: sbf_admin_bubbleshooter.php:58 sbf_admin_rewarder.php:100
+#: sbf_admin_faucets.php:38 videopoker/poker_lang_WP.php:32
+msgid "and"
+msgstr "и"
+
+#: sbf_admin_paidcontent.php:19 sbf_admin_paidcontent.php:83
+msgid "pay link text"
+msgstr "текст ссылки к оплате"
+
+#: sbf_admin_paidcontent.php:20
+msgid "where you want the Paid Content to appear"
+msgstr "там, где вы хотите поместить платный контент"
+
+#: sbf_admin_paidcontent.php:20 sbf_admin_blockrain.php:12
+#: sbf_admin_lines.php:11 sbf_admin_2048.php:14 sbf_admin_minesweeper.php:15
+#: sbf_admin_bonds.php:17 sbf_admin_bubbleshooter.php:13
+#: sbf_admin_rewarder.php:27 sbf_admin_faucets.php:12
+#: sbf_admin_videopoker.php:15
+msgid "or"
+msgstr "или"
+
+#: sbf_admin_paidcontent.php:22
+msgid "Donation"
+msgstr "Донат"
+
+#: sbf_admin_paidcontent.php:23
+msgid "Generate Test Donation Page"
+msgstr "Сгенерировать Тестовую страничку с донатом"
+
+#: sbf_admin_paidcontent.php:26
+msgid "Paid Article"
+msgstr "Платная статья"
+
+#: sbf_admin_paidcontent.php:27
+msgid "Generate Test Paid Article Page"
+msgstr "Сгенерировать тестовую страничку с платной статьёй"
+
+#: sbf_admin_paidcontent.php:30
+msgid "Paid Picture"
+msgstr "Платное изображение"
+
+#: sbf_admin_paidcontent.php:31
+msgid "Generate Test Paid Picture Page"
+msgstr "Сгенерировать тестовую страничку с платным изображением"
+
+#: sbf_admin_paidcontent.php:41 sbf_admin_bonds.php:32
+#: sbf_admin_videopoker.php:25
+msgid "Cryptoo.me <b>API Key</b>"
+msgstr "Ключ API cryptoo.me"
+
+#: sbf_admin_paidcontent.php:57
+msgid "Shortcodes"
+msgstr "Шорткоды"
+
+#: sbf_admin_paidcontent.php:62 sbf_admin_paidcontent.php:74
+#: sbf_admin_paidcontent.php:85
+msgid "Attributes"
+msgstr "Атрибуты"
+
+#: sbf_admin_paidcontent.php:64
+msgid "Alpha-numeric identifier of the content"
+msgstr "Буквенно-цифровой идентификатор контента"
+
+#: sbf_admin_paidcontent.php:65 sbf_admin_paidcontent.php:76
+#: sbf_admin_paidcontent.php:91 sbf_admin_paidcontent.php:95
+msgid "Example"
+msgstr "Пример"
+
+#: sbf_admin_paidcontent.php:67
+msgid "Full size picture will be available after payment"
+msgstr "Полноразмерная картинка будет доступна после оплаты"
+
+#: sbf_admin_paidcontent.php:75 sbf_admin_paidcontent.php:86
+msgid "Alpha-numeric identifier of the content, same as above"
+msgstr "Буквенно-цифровой идентификатор контента, такой же как выше"
+
+#: sbf_admin_paidcontent.php:87
+msgid "Number. Amount of satoshi to pay"
+msgstr "Номер. Сумма сатоши к оплате"
+
+#: sbf_admin_paidcontent.php:88
+msgid "Number. Seconds the payment stays valid"
+msgstr "Номер. Количество секунд, стечение которых оплата действует"
+
+#: sbf_admin_paidcontent.php:89
+msgid "If TRUE the payer can edit the amount. Useful for donations"
+msgstr "Если TRUE, плательщик может редактировать сумму.  Полезно для донатов"
+
+#: sbf_admin_blockrain.php:6
+msgid ""
+"Based on <a target=_blank href=\"https://wmexp.com/remotely-hosted-bitcoin-"
+"faucet-examples-list/example-game-bonuses/\">Game Bonuses example</a>"
+msgstr ""
+"Сделано на основе примера <a target=_blank href=https://wmexp.com/список-"
+"примеров/пример-игровые-бонусы/\"\">Игровые бонусы</a>"
+
+#: sbf_admin_blockrain.php:10 sbf_admin_lines.php:9 sbf_admin_2048.php:12
+#: sbf_admin_minesweeper.php:13 sbf_admin_bonds.php:15
+#: sbf_admin_bubbleshooter.php:11 sbf_admin_rewarder.php:23
+#: sbf_admin_videopoker.php:13
+msgid "Use Shortcode"
+msgstr "Используйте код"
+
+#: sbf_admin_blockrain.php:11 sbf_admin_lines.php:10 sbf_admin_2048.php:13
+#: sbf_admin_minesweeper.php:14 sbf_admin_bubbleshooter.php:12
+#: sbf_admin_videopoker.php:14
+msgid "where you want the game to appear"
+msgstr "там, где должна быть видна игра"
+
+#: sbf_admin_blockrain.php:13 sbf_admin_lines.php:12 sbf_admin_2048.php:15
+#: sbf_admin_minesweeper.php:16 sbf_admin_bonds.php:18
+#: sbf_admin_bubbleshooter.php:14 sbf_admin_videopoker.php:16
+msgid "Generate test Page"
+msgstr "Создайте тестовую страничку"
+
+#: sbf_admin_blockrain.php:24 sbf_admin_lines.php:23 sbf_admin_lines.php:46
+#: sbf_admin_2048.php:26 sbf_admin_minesweeper.php:27
+#: sbf_admin_bubbleshooter.php:25 simple-bitcoin-faucets.php:142
+#: simple-bitcoin-faucets.php:153 simple-bitcoin-faucets.php:264
+#: simple-bitcoin-faucets.php:463
+msgid "Score"
+msgstr "Очки"
+
+#: sbf_admin_blockrain.php:25 sbf_admin_lines.php:24 sbf_admin_2048.php:27
+#: sbf_admin_minesweeper.php:28 sbf_admin_bubbleshooter.php:26
+msgid "Faucet Id"
+msgstr "Faucet Id"
+
+#: sbf_admin_blockrain.php:54 sbf_admin_lines.php:61 sbf_admin_2048.php:62
+#: sbf_admin_minesweeper.php:62 sbf_admin_bubbleshooter.php:51
+#: sbf_admin.php:114 sbf_admin_rewarder.php:89 sbf_admin_faucets.php:25
+msgid ""
+"https://www.youtube.com/watch?v=-"
+"f5ckdopgag&list=PLRv0B44q8TR8bWrEwtMd6e17oW8wdRVIv&index=1"
+msgstr ""
+"https://www.youtube.com/watch?v=-"
+"f5ckdopgag&list=PLRv0B44q8TR8bWrEwtMd6e17oW8wdRVIv&index=1"
+
+#: sbf_admin_blockrain.php:54 sbf_admin_lines.php:61 sbf_admin_2048.php:62
+#: sbf_admin_minesweeper.php:62 sbf_admin_bubbleshooter.php:51
+#: sbf_admin_rewarder.php:89 sbf_admin_faucets.php:25
+msgid "Watch HowTo video"
+msgstr "Посмотрите Видео (англ.)"
+
+#: sbf_admin_blockrain.php:56 sbf_admin_2048.php:68
+msgid "Do not combine several games using keyboard input in the same page"
+msgstr "Не помещайте несколько игр, использующих клавиши, на одну страничку"
+
+#: sbf_admin_blockrain.php:57 sbf_admin_2048.php:69
+msgid "(like BlockRain and 2048)"
+msgstr "(как BlockRain и 2048)"
+
+#: sbf_admin_blockrain.php:60
+msgid "Make sure you have proper favicons to look nice"
+msgstr "Убедитесь что есть красивая favicon"
+
+#: sbf_admin_blockrain.php:61
+msgid "in the Faucet Lists"
+msgstr "в Списке Кранов"
+
+#: sbf_admin_blockrain.php:62 sbf_admin_lines.php:66 sbf_admin_2048.php:75
+#: sbf_admin_bubbleshooter.php:56 sbf_admin_rewarder.php:98
+#: sbf_admin_faucets.php:36
+msgid "like"
+msgstr "как"
+
+#: sbf_admin_blockrain.php:63 sbf_admin_lines.php:67 sbf_admin_2048.php:76
+#: sbf_admin_bubbleshooter.php:57 sbf_admin.php:118 sbf_admin_rewarder.php:99
+#: sbf_admin_faucets.php:37
+msgid "https://wmexp.com/"
+msgstr "https://wmexp.com/список-кранов/"
+
+#: sbf_admin_blockrain.php:63 sbf_admin_blockrain.php:65 sbf_admin_lines.php:67
+#: sbf_admin_lines.php:69 sbf_admin_2048.php:76 sbf_admin_2048.php:78
+#: sbf_admin_bubbleshooter.php:57 sbf_admin_bubbleshooter.php:59
+#: sbf_admin_rewarder.php:99 sbf_admin_rewarder.php:101
+#: sbf_admin_faucets.php:37 sbf_admin_faucets.php:39
+msgid "here"
+msgstr "здесь"
+
+#: sbf_admin_blockrain.php:65 sbf_admin_lines.php:69 sbf_admin_2048.php:78
+#: sbf_admin_bubbleshooter.php:59 sbf_admin_rewarder.php:101
+#: sbf_admin_faucets.php:39
+msgid "https://cryptoo.me/rotator/"
+msgstr "https://cryptoo.me/список-приложений/"
+
+#: sbf_admin_lines.php:63 sbf_admin_2048.php:72 sbf_admin_bubbleshooter.php:53
+msgid "You may use same Faucet as a reward for different scores"
+msgstr ""
+"Вы можете использовать один и тот же Кран как бонус за разные разультаты "
+
+#: sbf_admin_lines.php:64 sbf_admin_2048.php:73 sbf_admin_bubbleshooter.php:54
+msgid "However remember - every Faucet is a link to your page"
+msgstr "Однако помните, что каждый Кран - это ссылка на Вашу страницу"
+
+#: sbf_admin_lines.php:65 sbf_admin_2048.php:74 sbf_admin_bubbleshooter.php:55
+#: sbf_admin_rewarder.php:97 sbf_admin_faucets.php:35
+msgid "to bring more users from the Faucet Lists"
+msgstr "откуда придут посетители"
+
+#: sbf_admin_more.php:4
+msgid "Soon we are going to add code for Donation Form"
+msgstr "Мы собираемся добавить код для формы пожертвований (\"Donation Form\")"
+
+#: sbf_admin_more.php:5
+msgid "more games, including betting ones, like"
+msgstr "больше игр, включая азартные игры, как "
+
+#: sbf_admin_more.php:7
+msgid "much more"
+msgstr "и много ещё чего интересного"
+
+#: sbf_admin_2048.php:64
+msgid ""
+"To play use your arrow keys to move the tiles, when two tiles with the same "
+"number touch, they merge into one"
+msgstr ""
+"Используйте стрелки для перемещения плиток. Когда две одинаковые плитки "
+"ударяются, они сливаются в одну"
+
+#: sbf_admin_2048.php:65
+msgid "You may want to put the instructions near the game"
+msgstr "Может быть имеет смысл поместить эту инструкцию рядом с игрой"
+
+#: sbf_admin_minesweeper.php:64
+msgid "You can use this code to force visitors to reload the page for new game"
+msgstr ""
+"Вы можете заставить посетителей перегрузить страничку для новой игры, если "
+"используете код"
+
+#: sbf_admin_bonds.php:12
+msgid ""
+"Satoshi Bonds can be used as prizes, gifts, or sold as digital goods in "
+"stores/marketplaces"
+msgstr ""
+"Сатоши-Облигации могут быть использованы как призы, подарки, проданы как "
+"цифровые товары, и т.д"
+
+#: sbf_admin_bonds.php:13
+msgid ""
+"Person who has the Bond Code can redeem it for satoshi on the website issued "
+"the Bond"
+msgstr ""
+"Лицо, владеющее Кодом Облигации, может обменять облигацию на сатоши на сайте,"
+" выпустившем эту облигацию"
+
+#: sbf_admin_bonds.php:16
+msgid "where you want the Bond Redeem form to appear"
+msgstr "там, где вы хотите видеть Форму Выкупа Облигации"
+
+#: sbf_admin_bonds.php:46
+msgid "bonds for"
+msgstr "Облигаций на "
+
+#: sbf_admin_bonds.php:51
+msgid "available"
+msgstr "доступно"
+
+#: sbf_admin_bonds.php:58
+msgid "Redeem Bonds form example"
+msgstr "Пример Формы Выкупа Облигации"
+
+#: sbf_admin_bonds.php:71
+msgid "Bonds"
+msgstr "Облигации"
+
+#: sbf_admin_bonds.php:79
+msgid "Block name"
+msgstr "Название пакета"
+
+#: sbf_admin_bonds.php:80
+msgid "may not be empty"
+msgstr "не может быть пустым"
+
+#: sbf_admin_bonds.php:83
+msgid "Bonds in block"
+msgstr "Облигаций в Блоке"
+
+#: sbf_admin_bonds.php:84 bonds/bonds_helper.php:580
+msgid "bonds"
+msgstr "облигаций"
+
+#: sbf_admin_bonds.php:87
+msgid "Value of each bond"
+msgstr "Цена каждой облигации"
+
+#: sbf_admin_bonds.php:91
+msgid "Total Block cost"
+msgstr "Полная цена блока"
+
+#: sbf_admin_bonds.php:100 sbf_admin_bonds.php:136
+msgid "Create Bond Block"
+msgstr "Создать пакет Облигаций"
+
+#: sbf_admin_bonds.php:101
+msgid "Reload"
+msgstr "Обновить"
+
+#: sbf_admin_bonds.php:115
+msgid ""
+"https://www.youtube.com/watch?"
+"v=kRpEjPxKICA&list=PLRv0B44q8TR8bWrEwtMd6e17oW8wdRVIv&index=2"
+msgstr ""
+"https://www.youtube.com/watch?"
+"v=kRpEjPxKICA&list=PLRv0B44q8TR8bWrEwtMd6e17oW8wdRVIv&index=2"
+
+#: sbf_admin_bonds.php:115
+msgid "Watch Bonds HowTo video"
+msgstr "Посмотрите видео \"Облигации\""
+
+#: sbf_admin_bonds.php:117
+msgid ""
+"https://www.youtube.com/watch?"
+"v=v0WAz8OyY28&list=PLRv0B44q8TR8bWrEwtMd6e17oW8wdRVIv&index=4"
+msgstr ""
+"https://www.youtube.com/watch?"
+"v=v0WAz8OyY28&list=PLRv0B44q8TR8bWrEwtMd6e17oW8wdRVIv&index=4"
+
+#: sbf_admin_bonds.php:117
+msgid "Watch Feeder HowTo video"
+msgstr "Посмотрите видео о Фидере"
+
+#: sbf_admin_bonds.php:119
+msgid ""
+"Reputation is everything. Always make sure you have enough funds to cover "
+"all outstanding bonds"
+msgstr ""
+"Репутация - это наше всё. Убедитесь, что у Вас всегда достаточно средств, "
+"чтобы выкупить все непогашенные облигации"
+
+#: sbf_admin_bonds.php:121
+msgid ""
+"You can use <code>&bond=BONDCODE</code> and <code>&to=BITCOINADDRESS</code> "
+"flags in the URL of the page, containing the redeem form, like "
+msgstr ""
+"Вы можете использовать флаги  <code>&bond=BONDCODE</code> и<code>"
+"&to=BITCOINADDRESS</code> в URL страницы, содержащей форму обмена, например"
+
+#: sbf_admin_bonds.php:137 videopoker/poker_lang_WP.php:33
+#: paidcontent/paidcontent.php:61
+msgid "Cancel"
+msgstr "Отмена"
+
+#: sbf_admin_bonds.php:138
+msgid "Bond Block Options"
+msgstr "Настройки Блока"
+
+#: sbf_admin_bonds.php:145
+msgid "Bond Block name my not be empty"
+msgstr "Имя Блока не может быть пустым"
+
+#: sbf_admin_bonds.php:149 sbf_admin_bonds.php:153
+msgid "Value is out of range"
+msgstr "За пределами допустимого диапазона"
+
+#: sbf_admin.php:17
+msgid "Install"
+msgstr "Установить"
+
+#: sbf_admin.php:23
+msgid ""
+"The <a target=_blank href=\"https://wordpress.org/plugins/per-page-add-to/\">"
+"Per Page Head Plugin</a> will be handy to equip each faucet page with unique "
+"favicon and social sharing tags"
+msgstr ""
+"Плагин <a target=_blank href=\"https://ru.wordpress.org/plugins/per-page-add-"
+"to/\">Page Head Plugin</a> удобен чтобы снабдить каждую страничку уникальной "
+" favicon и социальными тегами"
+
+#: sbf_admin.php:105
+msgid "Simple Bitcoin Faucets"
+msgstr "Простые Bitcoin Краны"
+
+#: sbf_admin.php:108
+msgid "ATT!"
+msgstr "ВНИМАНИЕ!"
+
+#: sbf_admin.php:110
+msgid ""
+"In order to use this plugin functionality full-scale you will need to be "
+"able to use Remoute Faucets"
+msgstr ""
+"Чтобы целиком использовать возможности этого плагина, Вам нужно научиться "
+"работать с Удалёнными Биткойн-Кранами"
+
+#: sbf_admin.php:112
+msgid "Please"
+msgstr "Пожалуйста"
+
+#: sbf_admin.php:114
+msgid "Watch Satoshi Hints videos"
+msgstr "Посмотрите наши видео о сатоши"
+
+#: sbf_admin.php:116
+msgid "Also"
+msgstr "А ещё"
+
+#: sbf_admin.php:117
+msgid ""
+"https://wmexp.com/remotely-hosted-bitcoin-faucet-examples-list/example-"
+"creating-remote-faucet/"
+msgstr "https://wmexp.com/список-примеров/пример-создание-удалённого-крана/"
+
+#: sbf_admin.php:117
+msgid "Learn how to create Remote Faucet"
+msgstr "Научитесь создавать Удалённые Краны"
+
+#: sbf_admin.php:118
+msgid "Visit other Faucets"
+msgstr "Посетите другие краны"
+
+#: sbf_admin.php:119
+msgid "https://wmexp.com/remotely-hosted-bitcoin-faucet-examples-list/"
+msgstr "https://wmexp.com/список-примеров/"
+
+#: sbf_admin.php:119
+msgid "See Examples"
+msgstr "Посмотрите на примеры"
+
+#: sbf_admin.php:120
+msgid "https://wmexp.com/remotely-hosted-bitcoin-faucets-faq/"
+msgstr "https://wmexp.com/частые-вопросы/"
+
+#: sbf_admin.php:120
+msgid "Read FAQ"
+msgstr "ЧаВо"
+
+#: sbf_admin.php:122
+msgid "When you are ready, create Remote Faucets in the"
+msgstr "Когда будете готовы, создайте Кран тут:"
+
+#: sbf_admin.php:123
+msgid "Faucet Manager"
+msgstr "Менеджер Кранов"
+
+#: sbf_admin.php:125
+msgid "In the mean time for testing purposes please use Stub Faucet"
+msgstr "Пока можно использовать Тестовый Кран"
+
+#: sbf_admin.php:129
+msgid "Hide Intro"
+msgstr "Спрятать"
+
+#: sbf_admin.php:131
+msgid "Show Intro"
+msgstr "Показать"
+
+#: sbf_admin.php:171
+msgid "more"
+msgstr "ещё"
+
+#: sbf_admin.php:252
+msgid "Please rate &starf;&starf;&starf;&starf;&starf; if you like this plugin"
+msgstr ""
+"Пожалуйста поставьте  &starf;&starf;&starf;&starf;&starf; если плагин "
+"понравился"
+
+#: sbf_admin_rewarder.php:12
+msgid ""
+"Based on <a target=_blank href=\"https://wmexp.com/remotely-hosted-bitcoin-"
+"faucet-examples-list/example-surfer-reward/\">Surfer Rewarder example</a>"
+msgstr ""
+"Сделано на основе примера <a target=_blank href=\"https://wmexp.com/remotely-"
+"hosted-bitcoin-faucet-examples-list/example-surfer-reward/\">Surfer Rewarder "
+"example</a>"
+
+#: sbf_admin_rewarder.php:14
+msgid ""
+"Visitors are motivated to see more of the websites pages if once in a while "
+"they are rewarded by Bitcoin Faucet"
+msgstr ""
+"Посетители мотивированы посмотреть больше страниц сайта, если иногда им "
+"предлагается бонус  в виде Биткойн-крана"
+
+#: sbf_admin_rewarder.php:18
+msgid "Rewarder <b>Faucet ID</b>"
+msgstr "Rewarder <b>Faucet ID</b>"
+
+#: sbf_admin_rewarder.php:24
+msgid "anywhere on the pages you want "
+msgstr "в любом месте страницы, на которой"
+
+#: sbf_admin_rewarder.php:25
+msgid "the Rewarder mark"
+msgstr "метка Rewarder"
+
+#: sbf_admin_rewarder.php:26
+msgid "to appear ( hint: a Widget is a good place )"
+msgstr "должна быть доступна ( подсказка: используйте Виджеты )"
+
+#: sbf_admin_rewarder.php:32
+msgid "Include into all website pages"
+msgstr "Включить на всех страницах"
+
+#: sbf_admin_rewarder.php:32
+msgid "recommended"
+msgstr "рекомендуется"
+
+#: sbf_admin_rewarder.php:34
+msgid "Rewarder mark size"
+msgstr "Размер метки Rewarder"
+
+#: sbf_admin_rewarder.php:39
+msgid "Rewarder mark horizontal position"
+msgstr "Горизонтальная позиция метки Rewarder"
+
+#: sbf_admin_rewarder.php:45
+msgid "Rewarder mark vertical position"
+msgstr "Вертикальная позиция метки Rewarder"
+
+#: sbf_admin_rewarder.php:51
+msgid "Rewarder mark horizontal offset"
+msgstr "Горизонтальное смещение метки Rewarder"
+
+#: sbf_admin_rewarder.php:56
+msgid "Rewarder mark vertical offset"
+msgstr "Вертикально смещение метки Rewarder"
+
+#: sbf_admin_rewarder.php:61
+msgid "Minimum pages to visit before the Reward is given"
+msgstr "Минимальное количество страниц, нужное для получения бонуса"
+
+#: sbf_admin_rewarder.php:66
+msgid "Minimum seconds to stay on a page to count"
+msgstr "Минимум секунд на странице"
+
+#: sbf_admin_rewarder.php:71
+msgid "Count repeated pages"
+msgstr "Засчитывать повторённые страницы"
+
+#: sbf_admin_rewarder.php:73 sbf_admin_rewarder.php:79
+msgid "Yes"
+msgstr "Да"
+
+#: sbf_admin_rewarder.php:74 sbf_admin_rewarder.php:80
+msgid "No"
+msgstr "Нет"
+
+#: sbf_admin_rewarder.php:77
+msgid "Count reloaded pages"
+msgstr "Засчитывать перегруженные страницы"
+
+#: sbf_admin_rewarder.php:91 sbf_admin_faucets.php:29
+msgid "Use"
+msgstr "Используйте"
+
+#: sbf_admin_rewarder.php:93 sbf_admin_faucets.php:31
+msgid "as Faucet/App ULR for your Faucets"
+msgstr "в поле Faucet/App ULR для Ваших Кранов"
+
+#: sbf_admin_rewarder.php:96 sbf_admin_faucets.php:34
+msgid ""
+"While configuring real Faucets in the Faucet Manager, come up with "
+"attractive Faucet Names"
+msgstr ""
+"Придумайте привлекательное имя для Крана, когда будете настраивать его в "
+"Faucet Manager"
+
+#: sbf_admin_rewarder.php:104 sbf_admin_faucets.php:42
+msgid "For non-Wordpress pages of your website use the code"
+msgstr ""
+"Для страниц Вашего сайта, не использующих Wordpress, можно вставить код"
+
+#: sbf_admin_rewarder.php:128
+msgid "This functionality is disabled in the administrative interface"
+msgstr "Эта функциональность отключена администратором"
+
+#: simple-bitcoin-faucets.php:139
+msgid "Wanna play for Satoshi?"
+msgstr "Поиграем на Сатоши?"
+
+#: simple-bitcoin-faucets.php:140
+msgid "Play"
+msgstr "Играть"
+
+#: simple-bitcoin-faucets.php:141
+msgid "Bonus is yours!"
+msgstr "Бонус Ваш!"
+
+#: simple-bitcoin-faucets.php:150
+msgid "Ready for the prize?"
+msgstr "Готовы получить приз ?"
+
+#: simple-bitcoin-faucets.php:151
+msgid "No thanks"
+msgstr "Нет"
+
+#: simple-bitcoin-faucets.php:152
+msgid "Yes please!"
+msgstr "О да!"
+
+#: simple-bitcoin-faucets.php:154
+msgid "Are you sure"
+msgstr "Уверены"
+
+#: simple-bitcoin-faucets.php:155 bonds/bonds_helper.php:588
+msgid "Delete"
+msgstr "Удалить"
+
+#: simple-bitcoin-faucets.php:156
+msgid "Add"
+msgstr "Добавить"
+
+#: simple-bitcoin-faucets.php:205
+msgid "Time"
+msgstr "Время"
+
+#: simple-bitcoin-faucets.php:206
+msgid "New Game"
+msgstr "Новая игра"
+
+#: simple-bitcoin-faucets.php:207
+msgid "Beginner"
+msgstr "Новичок"
+
+#: simple-bitcoin-faucets.php:208
+msgid "Intermediate"
+msgstr "Бывалый"
+
+#: simple-bitcoin-faucets.php:209
+msgid "Expert"
+msgstr "Эксперт"
+
+#: simple-bitcoin-faucets.php:261
+msgid "Bubble Shooter Game"
+msgstr "Игра Bubble Shooter"
+
+#: simple-bitcoin-faucets.php:262
+msgid "Game Over!"
+msgstr "Игра окончена!"
+
+#: simple-bitcoin-faucets.php:263
+msgid "Click to start"
+msgstr "Кликните для новой игры"
+
+#: simple-bitcoin-faucets.php:265
+msgid "Loaded"
+msgstr "Загружено"
+
+#: simple-bitcoin-faucets.php:359
+msgid "bonus"
+msgstr "бонус"
+
+#: simple-bitcoin-faucets.php:360
+msgid "Get your bonus!"
+msgstr "Получите бонус!"
+
+#: simple-bitcoin-faucets.php:361
+msgid "Visit %n more pages for the bonus"
+msgstr "Чтобы получить бонус, посетите ещё %n страниц"
+
+#: simple-bitcoin-faucets.php:362
+msgid "close"
+msgstr "закрыть"
+
+#: simple-bitcoin-faucets.php:363
+msgid "info"
+msgstr "Информация"
+
+#: simple-bitcoin-faucets.php:364
+msgid "loading"
+msgstr "загрузка"
+
+#: simple-bitcoin-faucets.php:365
+msgid "faucet shown in other window"
+msgstr "Кран показан в другом окне"
+
+#: simple-bitcoin-faucets.php:366
+msgid "Bonus will be discarded!\\n\\nAre you sure?"
+msgstr "Бонус пропадёт. Вы уверены?"
+
+#: simple-bitcoin-faucets.php:367
+msgid "<b>Thanks for visiting %n pages!</b>"
+msgstr "<b>Спасибо за посещение %n страниц!</b>"
+
+#: simple-bitcoin-faucets.php:368
+msgid "%n more seconds to count the page"
+msgstr "Ещё %n секунд чтобы страница была засчитана"
+
+#: simple-bitcoin-faucets.php:369
+msgid "Already visited!"
+msgstr "Вы уже посещали эту страничку"
+
+#: simple-bitcoin-faucets.php:370
+msgid "Close for now"
+msgstr "пока закрыть"
+
+#: simple-bitcoin-faucets.php:371
+msgid "Off for day"
+msgstr "Выключить на сегодня"
+
+#: simple-bitcoin-faucets.php:372
+msgid "Off for week"
+msgstr "Выключить на неделю"
+
+#: simple-bitcoin-faucets.php:373
+msgid "Off for month"
+msgstr "Выключить на месяц"
+
+#: simple-bitcoin-faucets.php:529
+msgid ""
+"Use plugin `Per page head` to create separate favicon for this page, so it "
+"will look attractive in the Faucet Lists"
+msgstr ""
+"Используйте плагин `Per page head` чтобы создать уникальную favicon для этой "
+"странички (лучше выглядит в Списках Кранов) "
+
+#. Name of the plugin
+#: simple-bitcoin-faucets.php:657 simple-bitcoin-faucets.php:657
+msgid "Bitcoin Satoshi Tools"
+msgstr "Инструменты Биткойн Сатоши"
+
+#: sbf_admin_faucets.php:4
+msgid ""
+"Based on <a target=_blank href=\"https://wmexp.com/remotely-hosted-bitcoin-"
+"faucet-examples-list/example-creating-remote-faucet/\">Creating Remote "
+"Faucet example</a>"
+msgstr ""
+"Сделано на основе примера <a target=_blank href=\"https://wmexp.com/список-"
+"примеров/пример-создание-удалённого-крана/\">создание Удалённого Крана</a>"
+
+#: sbf_admin_faucets.php:7
+msgid "Enter <b>Faucet ID</b>:"
+msgstr "Введите Faucet ID"
+
+#: sbf_admin_faucets.php:10
+msgid "Use Shortcode:"
+msgstr "Используйте Shortcode:"
+
+#: sbf_admin_faucets.php:11 sbf_admin_faucets.php:44
+msgid "where you want the Faucet to appear"
+msgstr "там, где вы хотите чтобы Кран был виден"
+
+#: sbf_admin_faucets.php:13
+msgid "Generate simple Faucet Page"
+msgstr "Сгенирировать простую страничку с краном"
+
+#: sbf_admin_faucets.php:15
+msgid "Extra"
+msgstr "Экстра"
+
+#: sbf_admin_faucets.php:16
+msgid "Generate simple Faucet Page (narrow content)"
+msgstr "Сгенирировать простую страничку с краном (узкий контент)"
+
+#: sbf_admin_faucets.php:17
+msgid "Generate simple Faucet Page (extra fixed ads)"
+msgstr ""
+"Сгенирировать простую страничку с краном (дополнительные фиксированные "
+"баннеры)"
+
+#: sbf_admin_faucets.php:18
+msgid "Generate simple Faucet Page (narrow content,extra fixed ads)"
+msgstr ""
+"Сгенирировать простую страничку с краном (узкий контент, дополнительные "
+"фиксированные баннеры)"
+
+#: sbf_admin_faucets.php:27
+msgid "On the WordPress installation you can use as many Faucets as you want"
+msgstr "На сайте WordPress можно использовать неограниченное количество Кранов"
+
+#: sbf_admin_videopoker.php:35
+msgid "Maximum bet"
+msgstr "Максимальная ставка"
+
+#: sbf_admin_videopoker.php:41
+msgid "Limits the losses from very lucky player"
+msgstr "Ограничивает ущерб от очень удачливого игрока"
+
+#: sbf_admin_videopoker.php:45
+msgid "Initial bonus"
+msgstr "Начальный бонус"
+
+#: sbf_admin_videopoker.php:53
+msgid "Random bonus for new player"
+msgstr "Начальный бонус для нового игрока"
+
+#: sbf_admin_videopoker.php:57
+msgid "Bonuses before deposit"
+msgstr "Бонусов до депозита"
+
+#: sbf_admin_videopoker.php:62
+msgid "How many times initial bonus is offered"
+msgstr "Сколько раз начальный бонус будет доступен"
+
+#: sbf_admin_videopoker.php:63
+msgid "before player has to deposit own satoshi"
+msgstr "до того как игроку придется поставить собственные сатоши"
+
+#: sbf_admin_videopoker.php:67
+msgid "Wins before withdraw"
+msgstr "Выигрышей до вывода средств"
+
+#: sbf_admin_videopoker.php:72
+msgid "While playing on bonus money"
+msgstr "Играя на бонус,нужно выиграть"
+
+#: sbf_admin_videopoker.php:73
+msgid "the player has to win several times"
+msgstr "несколько раз, до того как выигрыш можно вывести"
+
+#: sbf_admin_videopoker.php:102
+msgid ""
+"On long run the house (the website, you) always wins, but it would be wise "
+"to keep some satshi on the account to pay the lucky player"
+msgstr ""
+"Всреднем заведение (вебсайт, Вы) всегда выигрывает. Но не помешает иметь "
+"небольшой резерв на счету, чтобы заплатить очень удачливому игроку"
+
+#: sbf_admin_videopoker.php:105
+msgid ""
+"<a target=_blank href=\"https://en.wikipedia.org/wiki/Video_poker\">Know "
+"your game</a>"
+msgstr ""
+"<a target=_blank href=\"https://ru.wikipedia."
+"org/wiki/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BF%D0%BE%D0%BA%D0%B5%D1%80\">"
+"Знайте свою игру</a>"
+
+#: referral/referral.php:194
+msgid "your Bitcoin Address"
+msgstr "ваш Биткоин-адрес"
+
+#: bonds/bonds.php:39
+msgid "Bond code and recipient address may not be empty"
+msgstr "Код Облигации и Биткоин-адрес получателя не могут быть пустыми"
+
+#: bonds/bonds.php:50
+msgid "There is no outstanding bond with the code"
+msgstr "Нет непогашенной облигации с кодом"
+
+#: bonds/bonds.php:55
+msgid "This Bond has been redeemed already"
+msgstr "Облигация уже была погашена"
+
+#: bonds/bonds.php:63
+msgid "Database Block integrity error on "
+msgstr "Ошибка при"
+
+#: bonds/bonds.php:101
+msgid "Something went wrong, try again!"
+msgstr "Ошибка, попробуйте ещё раз"
+
+#: bonds/bonds.php:103
+msgid "Unknown error!"
+msgstr "Неизвестная ошибка"
+
+#: bonds/bonds.php:114 bonds/bonds_helper.php:33
+msgid "Bond"
+msgstr "Облигация"
+
+#: bonds/bonds.php:114
+msgid "has been redeemed"
+msgstr "была погашена"
+
+#: bonds/bonds.php:115
+msgid "sent to"
+msgstr "перечислены"
+
+#: bonds/bonds.php:116
+msgid "https://cryptoo.me/deposits/"
+msgstr "https://cryptoo.me/депозиты/"
+
+#: bonds/bonds.php:148
+#, php-format
+msgid ""
+" \tHello %%USERNAME%%<br/>\n"
+"\tSatoshi Bond with code %%CODE%% (%%VALUE%% satoshi, Block '%%BLOCK%%') has "
+"been redeemed to %%TO%% (IP: %%IP%%).<br/>\n"
+"\tYou've received this email because Block '%%BLOCK%%' is configured to "
+"notify the owner on redemptions. <br/>\n"
+"\tHave a nice day!<br/>\n"
+"\t<a href='%%SITEURL%%'>%%SITENAME%%</a> \n"
+"\t"
+msgstr ""
+"\tЗдравствуйте, %%USERNAME%%<br/>\n"
+"\tОблигация %%CODE%% (%%VALUE%% сатоши, Пакет '%%BLOCK%%') был обналичен "
+"%%TO%% (IP: %%IP%%).<br/>\n"
+"\tВы получили это письмо, потому что Пакет '%%BLOCK%%' настроен на отправку "
+"уведомлений владельцу. <br/>\n"
+"\tХорошего дня!<br/>\n"
+"\t<a href='%%SITEURL%%'>%%SITENAME%%</a> "
+
+#: bonds/bonds.php:164
+#, php-format
+msgid "Bond %%CODE%% of %%VALUE%% satoshi has been redeemed"
+msgstr "Облигация %%CODE%% на %%VALUE%% satoshi была погашена"
+
+#: bonds/bonds.php:232
+msgid "Delete Bond"
+msgstr "Удалить Облигацию"
+
+#: bonds/bonds.php:418
+msgid "Bond Code"
+msgstr "Код Облигации"
+
+#: bonds/bonds.php:422
+msgid "Recipient Address"
+msgstr "Адрес получателя"
+
+#: bonds/bonds.php:423
+msgid "Bitcoin or email address"
+msgstr "Адрес Биткойн или электронной почты"
+
+#: bonds/bonds.php:429
+msgid "Redeem Bond"
+msgstr "Обналичить Облигацию"
+
+#: bonds/bonds.php:584
+msgid "LEGACY"
+msgstr "LEGACY"
+
+#: bonds/bonds_helper.php:34
+msgid "is going to be permanently deleted!"
+msgstr "будет удалена навсегда!"
+
+#: bonds/bonds_helper.php:35
+msgid "Are you sure?"
+msgstr "Вы уверены?"
+
+#: bonds/bonds_helper.php:78
+msgid "You have no satoshi bonds yet. Create some!"
+msgstr "У Вас пока нет Облигаций. Создайте парочку!"
+
+#: bonds/bonds_helper.php:217
+msgid "You are about to delete the all bonds in this block!"
+msgstr "Вы собираетесь удалить все Облигации в этом пакете!"
+
+#: bonds/bonds_helper.php:219
+msgid "Make sure you did not give away any the bond codes."
+msgstr "Убедитесь что коды Облигаций не были переданы кому-либо."
+
+#: bonds/bonds_helper.php:221
+msgid ""
+"All bond will be permanently voided and can not be exchanged for satoshi."
+msgstr "Все Облигации будут аннулированы и не смогут быть обменены на сатоши"
+
+#: bonds/bonds_helper.php:223
+msgid "DELETE ALL BONDS OF THIS BLOCK?"
+msgstr "УДАЛИТЬ ВСЕ ОБЛИГАЦИИ В ЭТОМ ПАКЕТЕ?"
+
+#: bonds/bonds_helper.php:257 bonds/bonds_helper.php:324
+#: bonds/bonds_helper.php:369
+msgid "no"
+msgstr "нет"
+
+#: bonds/bonds_helper.php:259
+msgid "You are about to delete the unredeemed bond!"
+msgstr "Вы собираетесь удалить необналиченную Облигацию"
+
+#: bonds/bonds_helper.php:261
+msgid "Make sure you did not give away the bond code."
+msgstr "Убедитесь что Код Облигации не был передан кому-либо"
+
+#: bonds/bonds_helper.php:263
+msgid "Bond will be permanently voided and can not be exchanged for satoshi."
+msgstr "Облигация будет аннулирована и не сможет быть обменена на сатоши "
+
+#: bonds/bonds_helper.php:265
+msgid "Delete the bond?"
+msgstr "Удалить Облигацию?"
+
+#: bonds/bonds_helper.php:315
+msgid "BLOCK NAME NOT SET"
+msgstr "ИМЯ ПАКЕТА ОБЛИГАЦИЙ НЕ ЗАДАНО"
+
+#: bonds/bonds_helper.php:404
+msgid "Bond Block"
+msgstr "Пакет облигаций"
+
+#: bonds/bonds_helper.php:471 bonds/bonds_helper.php:472
+msgid "Bond Codes"
+msgstr "Коды Облигаций"
+
+#: bonds/bonds_helper.php:575
+msgid "Get unredeemed Bond Codes for the block in convenient format"
+msgstr "Получить коды всех необналиченных облигаций в удобной форме"
+
+#: bonds/bonds_helper.php:575
+msgid "Export"
+msgstr "Экспорт"
+
+#: bonds/bonds_helper.php:581 bonds/bonds_helper.php:599
+msgid "redeemed"
+msgstr "обналичено"
+
+#: bonds/bonds_helper.php:583
+msgid "Notify by email when bond of this block is redeemed"
+msgstr "Оповещать электронной почтой о погашении "
+
+#: bonds/bonds_helper.php:588
+msgid "Delete all bonds of the block"
+msgstr "Удалить все Облигации в пакете"
+
+#: bonds/bonds_helper.php:596
+msgid "Bond code"
+msgstr "Код облигации"
+
+#: bonds/bonds_helper.php:598
+msgid "created"
+msgstr "создана"
+
+#: bonds/bonds_helper.php:601
+msgid "Delete this bond"
+msgstr "Удалить эту облигацию"
+
+#: bonds/bonds_helper.php:613
+msgid "Prefix"
+msgstr "Префикс"
+
+#: videopoker/poker_lang_WP.php:10
+msgid "Deposit"
+msgstr "Внести"
+
+#: videopoker/poker_lang_WP.php:11
+msgid "Withdraw"
+msgstr "Вывести"
+
+#: videopoker/poker_lang_WP.php:12
+msgid "Bet"
+msgstr "Ставка"
+
+#: videopoker/poker_lang_WP.php:13
+msgid "Balance"
+msgstr "Баланс"
+
+#: videopoker/poker_lang_WP.php:14
+msgid "Deal !"
+msgstr "Раздать !"
+
+#: videopoker/poker_lang_WP.php:15
+msgid "Trade !"
+msgstr "Поменять !"
+
+#: videopoker/poker_lang_WP.php:16
+msgid "It's time to play! Click button to deal!"
+msgstr "Сыграем? Кликните чтобы раздать карты"
+
+#: videopoker/poker_lang_WP.php:18
+msgid "You've got bonus %n satoshi"
+msgstr "Вы получили бонус %n сатоши"
+
+#: videopoker/poker_lang_WP.php:19
+msgid "Royal flush"
+msgstr "Роял Флеш"
+
+#: videopoker/poker_lang_WP.php:20
+msgid "Straight flush"
+msgstr "Стрейт Флеш"
+
+#: videopoker/poker_lang_WP.php:21
+msgid "Four of a kind"
+msgstr "Каре"
+
+#: videopoker/poker_lang_WP.php:22
+msgid "Full house"
+msgstr "Фул Хаус"
+
+#: videopoker/poker_lang_WP.php:23
+msgid "A flush"
+msgstr "Флеш"
+
+#: videopoker/poker_lang_WP.php:24
+msgid "A straight"
+msgstr "Стрейт"
+
+#: videopoker/poker_lang_WP.php:25
+msgid "Three of a kind"
+msgstr "Тройка"
+
+#: videopoker/poker_lang_WP.php:26
+msgid "Two pair"
+msgstr "Две Пары"
+
+#: videopoker/poker_lang_WP.php:27
+msgid "Jacks or better"
+msgstr "Валеты или лучше"
+
+#: videopoker/poker_lang_WP.php:28
+msgid "Almost! Deal to try again..."
+msgstr "Попробуйте ещё раз"
+
+#: videopoker/poker_lang_WP.php:29
+msgid "You win %n satoshi"
+msgstr "Вы выиграли %n сатоши"
+
+#: videopoker/poker_lang_WP.php:34
+msgid "While playing on the bonus you must win at least"
+msgstr "Пока используется бонус, нужно выиграть по крайней мере"
+
+#: videopoker/poker_lang_WP.php:35
+msgid "times before withdraw."
+msgstr "раз, а потом выводить средства. "
+
+#: videopoker/poker_lang_WP.php:36
+msgid "Enter bitcoin or email address to withdraw your satoshi to"
+msgstr "Введите Биткой или почтовый адрес куда перевести сатоши"
+
+#: videopoker/poker_lang_WP.php:37
+msgid "Enter amount of satoshi to deposit"
+msgstr "Количество сатоши, которое хотите ввести"
+
+#: videopoker/poker_lang_WP.php:38
+msgid "is incorrect value for satoshi amount"
+msgstr "Неправильное значение"
+
+#: videopoker/poker_lang_WP.php:39
+msgid "Must be between"
+msgstr "Должно быть между "
+
+#: videopoker/poker_lang_WP.php:40
+msgid "Something went wrong, please reset"
+msgstr "Что-то пошло не так. Нужен сброс "
+
+#: videopoker/poker_lang_WP.php:41
+msgid "You still have"
+msgstr "У вас есть ещё "
+
+#: videopoker/poker_lang_WP.php:42
+msgid "Please disable AdBlock"
+msgstr "Пожалуйста выключите AdBlock"
+
+#: videopoker/poker_lang_WP.php:44
+msgid "You must enter bet value between"
+msgstr "Устанавите ставку между"
+
+#: videopoker/poker_lang_WP.php:45
+msgid "You have 0 satoshi"
+msgstr "У вас нет сатоши"
+
+#: videopoker/poker_lang_WP.php:46
+msgid "Please deposit some"
+msgstr "Пожалуйста внесите средства"
+
+#: videopoker/poker_lang_WP.php:47
+msgid "You don't have that much money to bet"
+msgstr "У вас нет ресурсов на такую ставку"
+
+#: videopoker/poker_lang_WP.php:48
+msgid "Bet set to 1 satoshi"
+msgstr "Ставка 1 сатоши"
+
+#: videopoker/poker_lang_WP.php:49
+msgid "Click the cards you want to trade"
+msgstr "Кликните на карты, которые нужно поменять"
+
+#: videopoker/poker_lang_WP.php:50
+msgid "You've run out of satoshi! Click 'OK' to reset."
+msgstr "У Вас закончились сатоши! "
+
+#: paidcontent/paidcontent.php:60
+msgid "Satoshi amount"
+msgstr "Количество сатоши"
+
+#. Description of the plugin
+msgid ""
+"Satoshi Bonds, Games, Faucets, Visitor Rewarder, Referral Program, and more.."
+"."
+msgstr "Сатоши  игры, краны, облигации/бонды, и много что ещё..."
+
+#. #-#-#-#-#  simple-bitcoin-faucets-code.pot (Simple Bitcoin (Altcoin) Faucets
+#. 1.0.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  simple-bitcoin-faucets-code.pot (Simple Bitcoin (Altcoin) Faucets
+#. 1.0.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://gra4.com"
+msgstr "http://gra4.com"
+
+#. Author of the plugin/theme
+msgid "Alexey Trofimov"
+msgstr "Алексей Трофимов"
